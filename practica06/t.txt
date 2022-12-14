@@ -1,0 +1,4 @@
+tarea
+reciba url code
+formato json
+que pueda leer peticioens en 

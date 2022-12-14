@@ -1,0 +1,18 @@
+practica 06
+URLEnconding    queryparams(propiedad)
+Json            body();             <--- Parse
+                                        JsonElement
+formulario (HTML)
+
+POST---> URLEnconding   
+        > Json
+
+practica07
+JsonObjetd  <- (body(), )        
+BD. memoria
+
+MAP  <llave, valor>
+     string  usuario
+
+
+     
